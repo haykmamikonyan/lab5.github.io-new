@@ -1,2 +1,2 @@
 # lab5.github.io
-тестова веб-сторінка
+Initial git learning repo
